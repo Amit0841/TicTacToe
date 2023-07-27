@@ -11,7 +11,7 @@ This is a simple command-line implementation of the classic Tic Tac Toe game usi
 5. Players will enter their move by providing the row and column number where they want to place their symbol ('X' or 'O').  <br/>
 6. The game will continue until a player wins or the game ends in a draw.  <br/>
 
-<h2>Requirements</h2>  <br/>
+<h2>Requirements</h2> 
 Java Development Kit (JDK) 8 or higher  <br/>
  <br/>
   <h2>Demo Image</h2> 
