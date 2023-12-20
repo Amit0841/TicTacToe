@@ -2,7 +2,7 @@
 
 This is a simple command-line implementation of the classic Tic Tac Toe game using Java. The game allows two players to take turns and play until one of them wins or the game ends in a draw.
  <br/>
-
+  
 <h2>How to Play</h2> 
 1. Clone or download this repository to your local machine.  <br/>
 2. Compile the Java source code to create the executable class files.  <br/>
